@@ -10,5 +10,5 @@ Most of what I do at my current position implies web scraping and parsing, namel
 
 ### About me
 - Always learning new stuff
-- In my spare time, I enjoy swimming, kitesurfing and biking 🚵🏻‍♀️
+- In my spare time, I enjoy swimming 🏊🏻‍♂️, kitesurfing and biking 🚵🏻‍♀️
 - Dog person 🐺🐺
