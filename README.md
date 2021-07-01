@@ -1,10 +1,14 @@
 ### Hi there 👋
-My name is Santiago Facchini, I'm from Argentina and I've been working in tech since 2008.
+My name is **Santiago Facchini**, I'm from Argentina and I've been working in tech since 2008.
 
-### Technologies
-- Most of what I do is Python and some Bash.
-- Scraping sites on a daily basis.
-- Docker is also of my interest; I like to run my code inside containers (and a Raspberry Pi 🥧), just for fun.
+### Skills
+Most of what I do at my current position implies web scraping and parsing, namely using:
+- Python
+- Bash
+- Docker
+- Linux servers
 
-### Interests and goals
-- For the near future, improving my skills is my main goal. That will lead up to more things to come.
+### About me
+- Always learning new stuff
+- In my spare time, I enjoy swimming, kitesurfing and biking 🚵🏻‍♀️
+- Dog person 🐺🐺
