@@ -2,8 +2,9 @@
 My name is **Santiago Facchini**, I'm from Argentina and I've been working in tech since 2008.
 
 ### Skills
-Most of what I do at my current position implies web scraping and parsing, namely using:
+Most of what I do at my current position implies web scraping and parsing. Some of the tools that help me get the work done are:
 - Python
+- Go
 - Bash
 - Docker
 - Linux servers
