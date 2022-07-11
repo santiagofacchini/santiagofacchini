@@ -5,7 +5,6 @@ My name is **Santiago Facchini**, I'm from Argentina and I've been working in te
 Most of what I do at my current position is web scraping, parsing and data analysis. Some of the tools that help me get the work done are:
 - Python
 - Go
-- Bash
 - Docker
 - Linux servers
 
